@@ -7,7 +7,8 @@ tex: Name, City and State of the stadium. This will be used in the bottom left o
 linki: This will be used in the wikipedia search to find the stadium. i.e. https://en.wikipedia.org/w/index.php?title=Special:Search&search=Reser%20Stadium 
 If you could test if the link works with the linki string, I would appreciate it.
 */
-var CFData = [ {name:"OregonState", lat:"44.55952", longi:"-123.28147",tex:"Reser Stadium, Corvallis, Oregon", linki:"Reser Stadium"}, 
+var CFData = [ 
+				{name:"OregonState", lat:"44.55952", longi:"-123.28147",tex:"Reser Stadium, Corvallis, Oregon", linki:"Reser Stadium"}, 
 				{name:"TexasAM", lat:"30.609706", longi:"-96.340535",tex:"Kyle Field, College Station, Texas", linki:"Kyle Field"}, 
 				{name:"UoMich", lat:"42.265833", longi:"-83.748611",tex:"Michigan Stadium, Ann Arbor, Michigan", linki:"Michigan Stadium"}, 
 				{name:"PenState", lat:"40.812222", longi:"-77.856111",tex:"Beaver Stadium, University Park, Pennsylvania ", linki:"Beaver Stadium"}, 
@@ -28,7 +29,8 @@ var CFData = [ {name:"OregonState", lat:"44.55952", longi:"-123.28147",tex:"Rese
 				{name:"Clemson", lat:"34.678611", longi:"-82.843056",tex:"Memorial Stadium, Clemson, South Carolina", linki:"Memorial Stadium"}, 
 				{name:"NotreDame", lat:"41.698", longi:"-86.234",tex:"Notre Dame Stadium, South Bend, Indiana", linki:"Notre Dame Stadium"}, 
 				{name:"UoSCarolina", lat:"33.973056", longi:"-81.019167",tex:"Williams-Brice Stadium, Columbia, South Carolina", linki:"Williams-Brice Stadium"}, 
-				{name:"MichiganState", lat:"42.728056", longi:"-84.484722",tex:"Spartan Stadium, East Lansing, MI", linki:"Spartan Stadium"} ]; 
+				{name:"MichiganState", lat:"42.728056", longi:"-84.484722",tex:"Spartan Stadium, East Lansing, MI", linki:"Spartan Stadium"} 
+			]; 
 	
 	
 	///////////// THIS IS IN ALPHABETICAL ORDER //////////////////////////////////////////////////////////
