@@ -1,5 +1,12 @@
-
-
+/*
+name: is used by the value in the options
+lat: Latitude of the stadium
+long: Longitude of the stadium
+You can use this to find the Lat/Long http://timw1984.github.io/WebApp-Location/ 
+tex: Name, City and State of the stadium. This will be used in the bottom left of the App to describe what the user is looking at
+linki: This will be used in the wikipedia search to find the stadium. i.e. https://en.wikipedia.org/w/index.php?title=Special:Search&search=Reser%20Stadium 
+If you could test if the link works with the linki string, I would appreciate it.
+*/
 var CFData = [ {name:"OregonState", lat:"44.55952", longi:"-123.28147",tex:"Reser Stadium, Corvallis, Oregon", linki:"Reser Stadium"}, 
 				{name:"TexasAM", lat:"30.609706", longi:"-96.340535",tex:"Kyle Field, College Station, Texas", linki:"Kyle Field"}, 
 				{name:"UoMich", lat:"42.265833", longi:"-83.748611",tex:"Michigan Stadium, Ann Arbor, Michigan", linki:"Michigan Stadium"}, 
