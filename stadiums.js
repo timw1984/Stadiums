@@ -32,7 +32,13 @@ var CFData = [
 				{name:"NotreDame", lat:"41.698", longi:"-86.234",tex:"Notre Dame Stadium, South Bend, Indiana", linki:"Notre Dame Stadium"}, 
 				{name:"UoSCarolina", lat:"33.973056", longi:"-81.019167",tex:"Williams-Brice Stadium, Columbia, South Carolina", linki:"Williams-Brice Stadium"}, 
 				{name:"MichiganState", lat:"42.728056", longi:"-84.484722",tex:"Spartan Stadium, East Lansing, MI", linki:"Spartan Stadium"},
-					{name:"UoWashington", lat:"47.650278", longi:"-122.301667",tex:"Husky Stadium, Seattle, WA", linki:"Husky Stadium"} //I only did one to make sure I know how to do this, I will work on it more later
+					{name:"UoWashington", lat:"47.650278", longi:"-122.301667",tex:"Husky Stadium, Seattle, WA", linki:"Husky Stadium"},
+					{name:"UoArkansas", lat:"36.068056", longi:"-94.178889",tex:"Donald W. Reynolds Razorback Stadium, Fayetteville, AR", linki:"Donald W. Reynolds Razorback Stadium"},
+					{name:"UoMissouri", lat:"38.935833", longi:"-92.333056",tex:"Faurot Field, Columbia, Missouri", linki:"Faurot Field"},
+					{name:"UoIowa", lat:"41.658611", longi:"-91.551111",tex:"Kinnick Stadium, Iowa City, Iowa", linki:"Kinnick Stadium"},
+					{name:"RiceU", lat:"29.71625546217552", longi:"-95.40929282019071",tex:"Rice Stadium (Rice University), Houston, TX", linki:"Rice Stadium (Rice University)"},
+					{name:"VirginiaTech", lat:"37.22", longi:"-80.418056",tex:"Lane Stadium, Blacksburg, VA", linki:"Lane Stadium"},
+					{name:"AzStU", lat:"33.426389", longi:"-111.9325",tex:"Sun Devil Stadium, Tempe, AZ", linki:"Sun Devil Stadium"}
 			]; 
 	
 	
@@ -61,7 +67,13 @@ var CFData = [
 	<option class="CFB" value="UoSCarolina">University of South Carolina</option>
 	<option class="CFB" value="UoTennessee">University of Tennessee</option>
 	<option class="CFB" value="UoTexas">University of Texas</option>
-	<option class="CFB" value="UoWashington">University of Washinton</option>	
+	<option class="CFB" value="UoWashington">University of Washington</option>
+	<option class="CFB" value="UoArkansas">University of Arkansas</option>
+	<option class="CFB" value="UoMissouri">University of Missouri</option>
+	<option class="CFB" value="UoIowa">University of Iowa</option>
+	<option class="CFB" value="RiceU">Rice University</option>
+	<option class="CFB" value="VirginiaTech">Virginia Tech</option>
+	<option class="CFB" value="AzStU">Arizona State University</option>
 	
 	
 	
