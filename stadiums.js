@@ -46,6 +46,7 @@ var CFData = [
 	// "value" corresponds to the "name" in the CFData 
 	////////////////////////////////////////////////////
 	<option class="CFB" value="Auburn">Auburn</option>
+	<option class="CFB" value="AzStU">Arizona State University</option>
 	<option class="CFB" value="Clemson">Clemson</option>
 	<option class="CFB" value="CottonBowl">Cotton Bowl</option>
 	<option class="CFB" value="FloridaState">Florida State</option>
@@ -55,12 +56,16 @@ var CFData = [
 	<option class="CFB" value="OhioState">Ohio State</option>
 	<option class="CFB" value="OregonState">Oregon State</option>
 	<option class="CFB" value="PenState">Penn State</option>
+	<option class="CFB" value="RiceU">Rice University</option>
 	<option class="CFB" value="TexasAM">Texas A&M</option>
 	<option class="CFB" value="UoAlabama">University of Alabama</option>
+	<option class="CFB" value="UoArkansas">University of Arkansas</option>
 	<option class="CFB" value="UCLA">University of California</option>
 	<option class="CFB" value="UoFlorida">University of Florida</option>
 	<option class="CFB" value="UoGeorgia">University of Georgia</option>
+	<option class="CFB" value="UoIowa">University of Iowa</option>
 	<option class="CFB" value="UoMich">University of Michigan</option>
+	<option class="CFB" value="UoMissouri">University of Missouri</option>
 	<option class="CFB" value="UoNebraska">University of Nebraska</option>
 	<option class="CFB" value="UoOklahoma">University of Oklahoma</option>
 	<option class="CFB" value="USC">University of Southern California</option>
@@ -68,12 +73,8 @@ var CFData = [
 	<option class="CFB" value="UoTennessee">University of Tennessee</option>
 	<option class="CFB" value="UoTexas">University of Texas</option>
 	<option class="CFB" value="UoWashington">University of Washington</option>
-	<option class="CFB" value="UoArkansas">University of Arkansas</option>
-	<option class="CFB" value="UoMissouri">University of Missouri</option>
-	<option class="CFB" value="UoIowa">University of Iowa</option>
-	<option class="CFB" value="RiceU">Rice University</option>
 	<option class="CFB" value="VirginiaTech">Virginia Tech</option>
-	<option class="CFB" value="AzStU">Arizona State University</option>
+	
 	
 	
 	
